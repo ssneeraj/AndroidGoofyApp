@@ -12,8 +12,8 @@ public final class R {
     }
     public static final class drawable {
         public static final int icon=0x7f020000;
-        public static final int testimage=0x7f020001;
-        public static final int testimagesize=0x7f020002;
+        public static final int testimage_density=0x7f020001;
+        public static final int testimage_size=0x7f020002;
     }
     public static final class id {
         public static final int displaymetricTextView=0x7f050000;

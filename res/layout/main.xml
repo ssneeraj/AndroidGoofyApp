@@ -18,15 +18,14 @@
 		<ImageView 
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
-			android:src="@drawable/testimage"
+			android:src="@drawable/testimage_density"
 			android:layout_gravity="center"
-			android:padding="5.0dp"
-			/>
+			android:paddingBottom="5dp"/>
 	
 		<ImageView 
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
-			android:src="@drawable/testimagesize"
+			android:src="@drawable/testimage_size"
 			android:layout_gravity="center"/>
 					   
 	</LinearLayout>
